@@ -1,0 +1,8 @@
+spring:
+ kafka:
+  streams:
+   application-id: "kafka-streams-demo1" 
+   bootstrap-servers: 127.0.0.1:9092
+  
+       
+ 
